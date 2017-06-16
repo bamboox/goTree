@@ -1,9 +1,9 @@
 # Installation
-
+![goTree](/images/1.png)
 ## Go Get
 
 ```bash
-$ go get git@github.com:bamboox/goTree.git
+$ go get github.com/bamboox/goTree.git
 ```
 ## Usage
 ```bash
