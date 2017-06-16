@@ -3,7 +3,7 @@
 ## Go Get
 
 ```bash
-$ go get github.com/bamboox/goTree.git
+$ go get github.com/bamboox/goTree
 ```
 ## Usage
 ```bash
